@@ -4,7 +4,7 @@ A simple content-based movie recommender system built with Python and Streamlit.
 
 ## 🚀 Demo
 
-Check out the live demo here: [Movie Recommender Demo]([https://your-demo-link-here.com](https://drive.google.com/file/d/13sI_ipipP7fmmVID0pNMPMOdU_mCqoWC/view?usp=sharing))
+Check out the live demo here: [Movie Recommender Demo](https://drive.google.com/file/d/13sI_ipipP7fmmVID0pNMPMOdU_mCqoWC/view?usp=sharing)
 
 ## 🛠 Features
 
